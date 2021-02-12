@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta http-equiv="X-UA-Compatible" content="IE=edge">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>BeOurValentine</title>
+</head>
+<body>
+ <script type="text/javascript">
+  var heart = {};
+  var ourlove = 0;
+  if ((heart.value = "xCriticalSoftware")) {
+  ourlove +=100;
+  } else {
+  ourLife = null;
+  }
+  alert("We " + ourlove + "% love you);
+ </script>
+</body>
+</html>
